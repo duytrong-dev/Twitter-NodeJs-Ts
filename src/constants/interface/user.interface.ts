@@ -1,4 +1,4 @@
-import UserVerifyStatus from "~/enum/user-verify-status.enum.js";
+import UserVerifyStatus from "~/constants/enum/user-verify-status.enum.js";
 
 interface User {
   id: string;
